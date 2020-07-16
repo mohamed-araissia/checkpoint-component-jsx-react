@@ -1,0 +1,26 @@
+.container{
+display: block;
+border: 1px black;
+background-color: darkgrey;
+text-align: center;
+width: 350px;
+height: 350px;
+border-radius: 100%;
+}
+
+.image{
+border-radius: 100%;
+width: 300px;
+height: 300px;
+
+}
+.fullname{
+  font-family: cursive;
+  font-weight: 100;
+
+}
+.adress{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+
+}
